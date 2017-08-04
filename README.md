@@ -6,8 +6,8 @@
 ## 效果图
 *静止或者手弹起*
 
-![Mou icon](https://github.com/DamonEle/RecordViewDemo/blob/master/screeshot/device-2017-08-04-154458.png =200x)
+![](https://github.com/DamonEle/RecordViewDemo/blob/master/screeshot/device-2017-08-04-154458.png)
 
 *按住效果*
 
-![Mou icon](https://github.com/DamonEle/RecordViewDemo/blob/master/screeshot/device-2017-08-04-154411.png =200x)
+![](https://github.com/DamonEle/RecordViewDemo/blob/master/screeshot/device-2017-08-04-154411.png)
