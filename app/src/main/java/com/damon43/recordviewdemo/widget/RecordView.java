@@ -160,7 +160,7 @@ public class RecordView extends View {
                 readyToRecord();
                 return true;
             case MotionEvent.ACTION_UP:
-//                endRecording(ly);
+                endRecording(ly);
                 break;
             case MotionEvent.ACTION_CANCEL:
                 cancelRecording();
