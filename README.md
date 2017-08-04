@@ -4,4 +4,5 @@
 简单几行代码实现圆形动画扩散
 
 #效果图
+
 ![静止或者手弹起](https://github.com/DamonEle/RecordViewDemo/blob/master/screeshot/device-2017-08-04-154458.png = 300*400)
