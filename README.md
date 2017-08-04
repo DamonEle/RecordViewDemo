@@ -7,6 +7,7 @@
 *静止或者手弹起*
 
 ![静止或者手弹起](https://github.com/DamonEle/RecordViewDemo/blob/master/screeshot/device-2017-08-04-154458.png)
+
 *按住效果*
 
 ![按住效果](https://github.com/DamonEle/RecordViewDemo/blob/master/screeshot/device-2017-08-04-154411.png)
